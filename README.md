@@ -1,6 +1,6 @@
-<h1 align="center">
+<h1>
     <a href="https://github.com/KevOneRedOne">Hello There 👋 I'm Kévin 🐺 </a>
-    <img align="rigth" src="https://github.com/KevOneRedOne/KevOneRedOne/blob/feature/readme_style/img/avatar-circle.png" alt="Kévin" height="150" />
+    <img align="rigth" src="https://github.com/KevOneRedOne/KevOneRedOne/blob/feature/readme_style/img/avatar-circle.png" alt="Kévin" height="60" />
 </h1>
 <!-- TODO: corriger le lien sur main -->
 <!-- <a href="https://github.com/KevOneRedOne">
