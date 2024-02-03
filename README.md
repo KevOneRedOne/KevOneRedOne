@@ -1,4 +1,9 @@
-### Hello there 👋
+### Hello There 👋🐺
+
+<p align="center">
+  <img src="https://github.com/KevOneRedOne/KevOneRedOne/img/avatar.png" alt="Kévin Alves" height="200" style="margin-right: 20px; border-radius:30px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kevoneredone" alt="Github Stats" />
+</p>
 
 ![Cover](https://github.com/KevOneRedOne/KevOneRedOne/img/avatar.jpg)
 
