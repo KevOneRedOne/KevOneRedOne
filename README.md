@@ -11,7 +11,7 @@
 </p>
 
 <p align="right">
- <img src="https://github.com/KevOneRedOne/KevOneRedOne/blob/feature/readme_style/img/avatar-circle.png" alt="Kévin" height="200" width="200" />
+ <img src="https://github.com/KevOneRedOne/KevOneRedOne/blob/feature/readme_style/img/avatar-circle.png" alt="Kévin" height="50" width="200" />
 </p>
 
 <div align="center">
