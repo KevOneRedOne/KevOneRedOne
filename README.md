@@ -2,14 +2,20 @@
     <a href="">Hello There 👋 I'm Kévin 🐺 </a>
 </h1>
 <!-- TODO: corriger le lien sur main -->
+<!-- <a href="https://github.com/KevOneRedOne">
+    style="margin-left: 20px"/>
+</a> -->
+
+<p align="left" style="text-align:justify">
+  I'm Kévin, a Full Stack Developer from France <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>. I'm passionate about technology and I love to learn new things. I'm currently working with React, Vue, Node.js, Docker and MongoDB. I'm also learning about DevOps and Cloud Computing.
+</p>
+
+<p align="right">
+ <img src="https://github.com/KevOneRedOne/KevOneRedOne/blob/feature/readme_style/img/avatar-circle.png" alt="Kévin" height="200" width="200" />
+</p>
 
 <div align="center">
-    <a href="https://github.com/KevOneRedOne">
-        <img align="right"src="https://github.com/KevOneRedOne/KevOneRedOne/blob/feature/readme_style/img/avatar-circle.png" alt="Kévin Alves" height="200" style="margin-left: 20px"/>
-    </a>
-    <p align="center" style="text-align:justify; align">
-        I'm Kévin, a Full Stack Developer from France <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>. I'm passionate about technology and I love to learn new things. I'm currently working with React, Vue, Node.js, Docker and MongoDB. I'm also learning about DevOps and Cloud Computing.
-    </p>
+
 </div>
 
 
