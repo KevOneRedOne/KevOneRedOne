@@ -1,58 +1,62 @@
 ### Hello There 👋🐺
+<h1><a href="">Hello There 👋 I'm Kévin 🐺 </a></h1>
 
 <p align="center">
 <!-- TODO: corriger le lien sur main -->
   <img src="https://github.com/KevOneRedOne/KevOneRedOne/blob/feature/readme_style/img/avatar-circle.png" alt="Kévin Alves" height="200" style="margin-right: 20px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=kevoneredone&show_icons=true&theme=react" alt="Github Stats" />
+    <p align="center">
+        I'm Kévin, a Full Stack Developer from France <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>. I'm passionate about technology and I love to learn new things. I'm currently working with React, Vue, Node.js, Docker and MongoDB. I'm also learning about DevOps and Cloud Computing.
+    </p>
+  
 </p>
 
-<a href="https://github.com/KevOneRedOne">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kevoneredone" />
-</a>
-<a href="https://github.com/KevOneRedOne">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevoneredone&layout=compact&langs_count=8&card_width=320" />
-</a>
-<a href="https://github.com/KevOneRedOne">
+<br>
+
+
+
+<!-- <a href="https://github.com/KevOneRedOne">
     <img height="200" align="center" src="https://github.com/KevOneRedOne/KevOneRedOne/blob/feature/readme_style/img/avatar-circle.png" alt="Kévin Alves" />
-</a>
+</a> -->
+
+<p align="center">
+    <a href="https://github.com/KevOneRedOne" style="margin-right: 20px">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kevoneredone&show_icons=true&theme=react" />
+    </a>
+    <a href="https://github.com/KevOneRedOne">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevoneredone&layout=compact&langs_count=8&card_width=320&theme=react&hide=php,twig" />
+    </a>
+</p>
+
+<br>
+
+
+## Technologies 💻
 
 
 
 
-I'm Kévin Alves, a Full Stack Developer from France <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>. I'm passionate about technology and I love to learn new things. I'm currently working with React, Vue, Node.js, Docker and MongoDB. I'm also learning about DevOps and Cloud Computing.
 
-![Cover](https://github.com/KevOneRedOne/KevOneRedOne/img/avatar.jpg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevoneredone&show_icons=true&theme=github_dark)
+
+
+![GitHub followers](https://img.shields.io/github/followers/KevOneRedOne?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/KevOneRedOne?style=social)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=kevoneredone)
+
+
+
+
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevoneredone&layout=compact)]( https://github-readme-stats.vercel.app/api/top-langs/?username=kevoneredone&layout=compact)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevoneredone&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevoneredone&hide=html)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevoneredone&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevoneredone&layout=donut)](https://github.com/kevoneredone/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevoneredone&hide_progress=true)
-
-
-<a href="https://github.com/kevoneredone/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kevoneredone" />
-</a>
-<a href="https://github.com/kevoneredone/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevoneredone&layout=compact&langs_count=8&card_width=320" />
-</a>
 <!--
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -114,14 +118,37 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Google Workspace-4285F4?style=for-the-badge&logo=google-workspace&logoColor=white" alt="Google Workspace" />
 </p>
 
-### 📈 GitHub Stats
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kevoneredone&show_icons=true&theme=react" alt="Github Stats" />
-</p>
+### Other Things
 
-### 📊 Most Used Languages
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevoneredone&layout=compact" alt="Most Used Languages" />
-</p>
+- I'm currently working on a project called [Simplistic JavaScript Tetris](https://simplistic-javascript-tetris.netlify.app/)
 
 
+[![Simplistic JavaScript Tetris](https://img.shields.io/badge/website-up-green?style=for-the-badge&logo=appveyor)](https://simplistic-javascript-tetris.netlify.app/)
+
+
+
+ <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
+
+
+## 🛠  Technologies and tools
+
+<a name="learning-now"></a>
+
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />]
