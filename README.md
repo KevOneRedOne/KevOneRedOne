@@ -1,5 +1,8 @@
 ### Hello There 👋🐺
-<h1><a href="">Hello There 👋 I'm Kévin 🐺 </a></h1>
+<h1>
+    <a href="">Hello There 👋 I'm Kévin 🐺 </a>
+    <img src="https://github.com/KevOneRedOne/KevOneRedOne/blob/feature/readme_style/img/avatar-circle.png" alt="Kévin Alves" height="200" style="margin-right: 20px"/>
+</h1>
 
 <p align="center">
 <!-- TODO: corriger le lien sur main -->
