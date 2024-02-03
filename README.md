@@ -26,7 +26,7 @@
 <p align="center">
     <a href="https://github.com/KevOneRedOne" style="margin-right: 20px">
         <!-- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kevoneredone&show_icons=true&theme=react" /> -->
-        <img height="200" align="center" src="https://github.com/KevOneRedOne/KevOneRedOne/blob/feature/readme_style/img/avatar-circle.png" alt="Kévin Alves" />
+        <img height="200" align="center" src="https://github.com/KevOneRedOne/KevOneRedOne/blob/feature/readme_style/img/avatar-circle.png" alt="Kévin" style="margin-right:20px" />
     </a>
     <a href="https://github.com/KevOneRedOne">
         <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kevoneredone&show_icons=true&theme=react" />
