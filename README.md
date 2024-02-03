@@ -1,12 +1,13 @@
 <h1>
     <a href="">Hello There 👋 I'm Kévin 🐺 </a>
+    <img aling="rigth" src="https://github.com/KevOneRedOne/KevOneRedOne/blob/feature/readme_style/img/avatar-circle.png" alt="Kévin" height="20" style="margin-left: 20px"/>
 </h1>
 <!-- TODO: corriger le lien sur main -->
 <!-- <a href="https://github.com/KevOneRedOne">
     <img src="https://github.com/KevOneRedOne/KevOneRedOne/blob/feature/readme_style/img/avatar-circle.png" alt="Kévin" height="200" style="margin-left: 20px"/>
 </a> -->
 
-<p align="left" style="text-align:justify; width:500px">
+<p align="left">
   I'm Kévin, a Full Stack Developer from France <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>. I'm passionate about technology and I love to learn new things. I'm currently working with React, Vue, Node.js, Docker and MongoDB. I'm also learning about DevOps and Cloud Computing.
 </p>
 <img src="https://github.com/KevOneRedOne/KevOneRedOne/blob/feature/readme_style/img/avatar-circle.png" alt="Kévin" height="200" style="margin-left: 20px"/>
@@ -88,7 +89,8 @@
 -->
 
 
-### 📫 How to reach me
+## 📫 How to reach me
+
 <p align="center">
     <a href="https://www.linkedin.com/in/kévin-alves-7a96ba146">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
