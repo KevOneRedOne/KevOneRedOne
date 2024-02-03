@@ -4,9 +4,7 @@
 </h1>
 <!-- TODO: corriger le lien sur main -->
 
-## About me 🚀
-
-<p>
+<p style="text-align:justify" width="30">
   I'm Kévin, a Full Stack Developer from France <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>. I'm passionate about technology and I love to learn new things. I'm currently working with React, Vue, Node.js, Docker and MongoDB. I'm also learning about DevOps and Cloud Computing.
 </p>
 
