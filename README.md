@@ -1,7 +1,7 @@
 ### Hello There 👋🐺
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github.com/KevOneRedOne/KevOneRedOne/blob/main/img/avatar.png" alt="Kévin Alves" height="200" style="border-radius:30%"/>
+  <img src="https://github.com/KevOneRedOne/KevOneRedOne/blob/main/img/avatar-circle.png" alt="Kévin Alves" height="200" style="margin-right: 20px; border-radius:30%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=kevoneredone&show_icons=true&theme=react" alt="Github Stats" />
 </p>
 
