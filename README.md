@@ -6,7 +6,7 @@
     <img src="https://github.com/KevOneRedOne/KevOneRedOne/blob/feature/readme_style/img/avatar-circle.png" alt="Kévin" height="200" style="margin-left: 20px"/>
 </a> -->
 
-<p align="center" style="text-align:justify; width:500px">
+<p align="left" style="text-align:justify; width:500px">
   I'm Kévin, a Full Stack Developer from France <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>. I'm passionate about technology and I love to learn new things. I'm currently working with React, Vue, Node.js, Docker and MongoDB. I'm also learning about DevOps and Cloud Computing.
   <img src="https://github.com/KevOneRedOne/KevOneRedOne/blob/feature/readme_style/img/avatar-circle.png" alt="Kévin" height="200" style="margin-left: 20px"/>
 </p>
