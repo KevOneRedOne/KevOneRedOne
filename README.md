@@ -1,17 +1,16 @@
-### Hello There 👋🐺
 <h1>
     <a href="">Hello There 👋 I'm Kévin 🐺 </a>
-    <img src="https://github.com/KevOneRedOne/KevOneRedOne/blob/feature/readme_style/img/avatar-circle.png" alt="Kévin Alves" height="200" style="margin-right: 20px"/>
 </h1>
+<!-- TODO: corriger le lien sur main -->
 
 <p align="center">
-<!-- TODO: corriger le lien sur main -->
-  <img src="https://github.com/KevOneRedOne/KevOneRedOne/blob/feature/readme_style/img/avatar-circle.png" alt="Kévin Alves" height="200" style="margin-right: 20px"/>
-    <p align="center">
+    <img align="right"src="https://github.com/KevOneRedOne/KevOneRedOne/blob/feature/readme_style/img/avatar-circle.png" alt="Kévin Alves" height="200" style="margin-left: 20px"/>
+    <p align="center" style="text-align:justify;">
         I'm Kévin, a Full Stack Developer from France <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>. I'm passionate about technology and I love to learn new things. I'm currently working with React, Vue, Node.js, Docker and MongoDB. I'm also learning about DevOps and Cloud Computing.
     </p>
-  
 </p>
+
+
 
 <br>
 
@@ -20,7 +19,7 @@
 <!-- <a href="https://github.com/KevOneRedOne">
     <img height="200" align="center" src="https://github.com/KevOneRedOne/KevOneRedOne/blob/feature/readme_style/img/avatar-circle.png" alt="Kévin Alves" />
 </a> -->
-
+<div>
 <p align="center">
     <a href="https://github.com/KevOneRedOne" style="margin-right: 20px">
         <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kevoneredone&show_icons=true&theme=react" />
@@ -29,6 +28,8 @@
         <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevoneredone&layout=compact&langs_count=8&card_width=320&theme=react&hide=php,twig" />
     </a>
 </p>
+</div>
+
 
 <br>
 
