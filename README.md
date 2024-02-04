@@ -255,7 +255,7 @@
         <img height=200 align="center" src="img/tetrisgame.png" />
     </a>
     <a href="https://github.com/KevOneRedOne/Simplistic-Javascript-Tetris" >
-        <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KevOneRedOne&repo=Simplistic-Javascript-Tetris&theme=react" />
+        <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KevOneRedOne&repo=Simplistic-Javascript-Tetris&theme=github_dark" />
     </a>
 </p>
 
@@ -269,7 +269,7 @@
         <img height=200 align="center" src="img/topgungame.png" />
     </a>
     <a href="https://github.com/KevOneRedOne/TopGun_Fighter-Raspberry-Pi">
-        <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KevOneRedOne&repo=TopGun_Fighter-Raspberry-Pi&theme=react" />
+        <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KevOneRedOne&repo=TopGun_Fighter-Raspberry-Pi&theme=github_dark" />
     </a>
 </p>
 
