@@ -36,11 +36,12 @@
     More About Me 🐺
 </summary>
 
-<hr>
 
 <h3>
     🌱 Currently learning
 </h3>
+
+<br>
 
 <details>
     <summary>🌐 Web Development</summary>
@@ -70,11 +71,12 @@
     </p>
 </details>
 
-<hr>
 
 <h3>
     🛠️ Skills & Tools
 </h3>
+
+<br>
 
 <details>
     <summary>🌐 Web Development</summary>
