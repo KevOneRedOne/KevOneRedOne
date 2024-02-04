@@ -252,7 +252,7 @@
 
 <p align="center">
     <a href="https://simplistic-javascript-tetris.netlify.app/" style="margin-right: 20px">
-        <img height=200 align="center" src="https://github.com/KevOneRedOne/KevOneRedOne/blob/0251c0c08bbe5799565e9d79251add45a811b0b1/img/tetrisgame.png" />
+        <img height=200 align="center" src="img/tetrisgame.png" />
     </a>
     <a href="https://github.com/KevOneRedOne/Simplistic-Javascript-Tetris" >
         <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KevOneRedOne&repo=Simplistic-Javascript-Tetris&theme=react" />
