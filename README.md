@@ -272,23 +272,34 @@
 
 ### ⚡ One More Thing
 
-- If you want to play an old tetris game from your browser during your breaks, visit my very first Javascript game <a href="https://simplistic-javascript-tetris.netlify.app/"><img align="center" src="https://img.shields.io/badge/website-up-green?style=flat&label=Simplistic-Javascript-Tetris&logo=appveyor" /></a> 
-
-[![Simplistic JavaScript Tetris](https://img.shields.io/badge/website-up-green?style=flat&label=Simplistic-Javascript-Tetris&logo=appveyor)](https://simplistic-javascript-tetris.netlify.app/)
-
-
+- If you want to play an old `Tetris Game` from your browser during your breaks, visit my very first `Javascript` game (1st year Bachelor project) <a href="https://simplistic-javascript-tetris.netlify.app/"><img align="center" src="https://img.shields.io/badge/website-up-green?style=flat&label=Simplistic-Javascript-Tetris&logo=appveyor" /></a> 
 
 
 <p align="center">
-    <a href="https://github.com/KevOneRedOne/Simplistic-Javascript-Tetris" style="margin-right: 20px">
-        <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KevOneRedOne&repo=Simplistic-Javascript-Tetris&theme=react" />
-    </a>
     <a href="https://simplistic-javascript-tetris.netlify.app/">
         <img height=200 align="center" src="https://github.com/KevOneRedOne/KevOneRedOne/blob/feature/readme_style/img/tetrisgame.png" />
     </a>
+    <a href="https://github.com/KevOneRedOne/Simplistic-Javascript-Tetris" style="margin-left: 20px">
+        <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KevOneRedOne&repo=Simplistic-Javascript-Tetris&theme=react" />
+    </a>
 </p>
 
+<br>
 
+- Or if you want to play another `Retro Game`, visit my very first game in `Python` (2nd year Bachelor project) <a href="https://github.com/KevOneRedOne/TopGun_Fighter-Raspberry-Pi/tree/main"><img align="center" src="https://img.shields.io/badge/Python-3776AB?style=flat&label=TopGun_Fighter-Raspberry-Pi&logo=python&logoColor=white" /></a>
+
+<p align="center">
+    <a href="https://github.com/KevOneRedOne/TopGun_Fighter-Raspberry-Pi">
+        <img height=200 align="center" src="https://github.com/KevOneRedOne/KevOneRedOne/blob/feature/readme_style/img/topgungame.png" />
+    </a>
+    <a href="https://github.com/KevOneRedOne/TopGun_Fighter-Raspberry-Pi" style="margin-left: 20px">
+        <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KevOneRedOne&repo=TopGun_Fighter-Raspberry-Pi&theme=react" />
+    </a>
+</p>
+
+<br>
+
+[(Back to top)](#top)
 
 From [KevOneRedOne](https://github.com/KevOneRedOne)
 
