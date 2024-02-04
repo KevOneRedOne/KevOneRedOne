@@ -250,6 +250,7 @@
 - If you want to play an old `Tetris Game` from your browser during your breaks, visit my very first `Javascript` game (1st year Bachelor project) <a href="https://simplistic-javascript-tetris.netlify.app/"><img align="center" src="https://img.shields.io/badge/website-up-green?style=flat&label=Simplistic-Javascript-Tetris&logo=appveyor" /></a> 
 
 <br>
+
 <p align="center">
     <a href="https://simplistic-javascript-tetris.netlify.app/" style="margin-right: 20px">
         <img height=200 align="center" src="https://github.com/KevOneRedOne/KevOneRedOne/blob/feature/readme_style/img/tetrisgame.png" />
@@ -285,6 +286,4 @@
 
 <br>
 
-From 🐺 [KevOneRedOne](https://github.com/KevOneRedOne)
-
-
+<p align="center">This <i>README</i> file is deploy with <i>GITHUB Pages</i>!</br>Last Update: 04/02/2024 <br />From 🐺 <a href="https://kevoneredone.github.io/KevOneRedOne/"><img align="center" src="https://img.shields.io/badge/website-up-green?style=flat&label=KevOneRedOne&logo=appveyor" /></a> </p>
