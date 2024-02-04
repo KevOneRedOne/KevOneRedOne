@@ -14,7 +14,7 @@
 
 <br>
 
-#### 📚 My GitHub Stats
+### 📚 My GitHub Stats
 
 <p align="center">
     <a href="https://github.com/KevOneRedOne" style="margin-right: 20px">
@@ -35,7 +35,7 @@
 
 <hr>
 
-#### 🌱 Currently learning
+### 🌱 Currently learning
 
 <details>
     <summary><p>🌐 Web Development</summary>
@@ -65,7 +65,7 @@
 
 <hr>
 
-#### 🛠️ Skills & Tools
+### 🛠️ Skills & Tools
 
 <details>
     <summary>🌐 Web Development</summary>
@@ -140,7 +140,7 @@
 
 <hr>
 
-#### 📫 How to reach me
+### 📫 How to reach me
 
 <p>
     <a href="https://www.linkedin.com/in/kévin-alves-7a96ba146">
@@ -158,7 +158,7 @@
 
 
 
-[(Back to top)](#my-github-stats)
+[(Back to top)](#-my-github-stats)
 
 </details>
 
