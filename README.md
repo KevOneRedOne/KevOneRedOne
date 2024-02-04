@@ -274,7 +274,7 @@
 
 - If you want to play an old `Tetris Game` from your browser during your breaks, visit my very first `Javascript` game (1st year Bachelor project) <a href="https://simplistic-javascript-tetris.netlify.app/"><img align="center" src="https://img.shields.io/badge/website-up-green?style=flat&label=Simplistic-Javascript-Tetris&logo=appveyor" /></a> 
 
-
+<br>
 <p align="center">
     <a href="https://simplistic-javascript-tetris.netlify.app/" style="margin-right: 20px">
         <img height=200 align="center" src="https://github.com/KevOneRedOne/KevOneRedOne/blob/feature/readme_style/img/tetrisgame.png" />
@@ -288,6 +288,7 @@
 
 - Or if you want to play another `Retro Game`, visit my very first game in `Python` (2nd year Bachelor project) <a href="https://github.com/KevOneRedOne/TopGun_Fighter-Raspberry-Pi/tree/main"><img align="center" src="https://img.shields.io/badge/Python-3776AB?style=flat&label=TopGun_Fighter-Raspberry-Pi&logo=python&logoColor=white" /></a>
 
+<br>    
 <p align="center">
     <a href="https://github.com/KevOneRedOne/TopGun_Fighter-Raspberry-Pi" style="margin-right: 20px">
         <img height=200 align="center" src="https://github.com/KevOneRedOne/KevOneRedOne/blob/feature/readme_style/img/topgungame.png" />
@@ -301,6 +302,10 @@
 
 [(Back to top)](#top)
 
-From [KevOneRedOne](https://github.com/KevOneRedOne)
+<hr>
+
+<br>
+
+From 🐺 [KevOneRedOne](https://github.com/KevOneRedOne)
 
 
