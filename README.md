@@ -1,8 +1,7 @@
 <h1>
-    <img align="rigth" src="https://github.com/KevOneRedOne/KevOneRedOne/blob/feature/readme_style/img/avatar-circle.png" alt="Kévin" height="40" />
+    <img align="rigth" src="https://github.com/KevOneRedOne/KevOneRedOne/blob/main/img/avatar-circle.png" alt="Kévin" height="40" />
     <a name="top" href="https://github.com/KevOneRedOne">Hello There 👋 I'm Kévin 🐺 </a>
 </h1>
-<!-- TODO: corriger le lien sur main -->
 
 - I'm a `Fullstack Developer` from `France`, near to Paris <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>.
 - I'm currently doing a Master's Degree in `Advanced Web Development` at <a href="https://www.ynov.com/formations/informatique/mastere-expert-en-developpement-web">Ynov Campus</a> in Paris. In parallel, I'm working at <a href="https://www.itesoft.com/fr/">ITESOFT</a> as a project developer.
