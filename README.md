@@ -28,7 +28,7 @@
 
 <br>
 
-<!-- <details> -->
+<details>
 
 <summary>
     More About Me 🐺
@@ -246,30 +246,6 @@
 
 <hr>
 
-
-
-
-
-</details>
-
-<br>
-
-
-
-<!-- 
-![GitHub followers](https://img.shields.io/github/followers/KevOneRedOne?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/KevOneRedOne?style=social)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
- -->
-
-
-
-
 ### ⚡ One More Thing
 
 - If you want to play an old `Tetris Game` from your browser during your breaks, visit my very first `Javascript` game (1st year Bachelor project) <a href="https://simplistic-javascript-tetris.netlify.app/"><img align="center" src="https://img.shields.io/badge/website-up-green?style=flat&label=Simplistic-Javascript-Tetris&logo=appveyor" /></a> 
@@ -303,6 +279,10 @@
 [(Back to top)](#top)
 
 <hr>
+
+</details>
+
+<br>
 
 <br>
 
