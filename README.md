@@ -3,7 +3,6 @@
     <a name="top" href="https://github.com/KevOneRedOne">Hello There 👋 I'm Kévin 🐺 </a>
 </h1>
 
-
 - I'm a `Fullstack Developer` from `France`, near to Paris <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>.
 - I'm currently doing a Master's Degree in `Advanced Web Development` at <a href="https://www.ynov.com/formations/informatique/mastere-expert-en-developpement-web">Ynov Campus</a> in Paris. In parallel, I'm working at <a href="https://www.itesoft.com/fr/">ITESOFT</a> as a project developer.
   
@@ -251,6 +250,7 @@
 - If you want to play an old `Tetris Game` from your browser during your breaks, visit my very first `Javascript` game (1st year Bachelor project) <a href="https://simplistic-javascript-tetris.netlify.app/"><img align="center" src="https://img.shields.io/badge/website-up-green?style=flat&label=Simplistic-Javascript-Tetris&logo=appveyor" /></a> 
 
 <br>
+
 <p align="center">
     <a href="https://simplistic-javascript-tetris.netlify.app/" style="margin-right: 20px">
         <img height=200 align="center" src="https://github.com/KevOneRedOne/KevOneRedOne/blob/feature/readme_style/img/tetrisgame.png" />
@@ -287,6 +287,3 @@
 <br>
 
 <p align="center">This <i>README</i> file is deploy with <i>GITHUB Pages</i>!</br>Last Update: 04/02/2024 <br />From 🐺 <a href="https://kevoneredone.github.io/KevOneRedOne/"><img align="center" src="https://img.shields.io/badge/website-up-green?style=flat&label=KevOneRedOne&logo=appveyor" /></a> </p>
-
-
-
