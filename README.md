@@ -36,6 +36,9 @@
     More About Me 🐺
 </summary>
 
+<br>
+
+<hr>
 
 <h3>
     🌱 Currently learning
