@@ -1,5 +1,5 @@
 <h1>
-    <img align="rigth" src="https://github.com/KevOneRedOne/KevOneRedOne/blob/main/img/avatar-circle.png" alt="Kévin" height="40" />
+    <img align="rigth" src="https://github.com/KevOneRedOne/KevOneRedOne/tree/main/img/avatar-circle.png" alt="Kévin" height="40" />
     <a name="top" href="https://github.com/KevOneRedOne">Hello There 👋 I'm Kévin 🐺 </a>
 </h1>
 
@@ -253,7 +253,7 @@
 
 <p align="center">
     <a href="https://simplistic-javascript-tetris.netlify.app/" style="margin-right: 20px">
-        <img height=200 align="center" src="https://github.com/KevOneRedOne/KevOneRedOne/blob/main/readme_style/img/tetrisgame.png" />
+        <img height=200 align="center" src="https://github.com/KevOneRedOne/KevOneRedOne/tree/main/img/tetrisgame.png" />
     </a>
     <a href="https://github.com/KevOneRedOne/Simplistic-Javascript-Tetris" >
         <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KevOneRedOne&repo=Simplistic-Javascript-Tetris&theme=react" />
@@ -267,7 +267,7 @@
 <br>    
 <p align="center">
     <a href="https://github.com/KevOneRedOne/TopGun_Fighter-Raspberry-Pi" style="margin-right: 20px">
-        <img height=200 align="center" src="https://github.com/KevOneRedOne/KevOneRedOne/blob/main/readme_style/img/topgungame.png" />
+        <img height=200 align="center" src="https://github.com/KevOneRedOne/KevOneRedOne/tree/main/img/topgungame.png" />
     </a>
     <a href="https://github.com/KevOneRedOne/TopGun_Fighter-Raspberry-Pi">
         <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KevOneRedOne&repo=TopGun_Fighter-Raspberry-Pi&theme=react" />
