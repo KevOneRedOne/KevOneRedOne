@@ -3,9 +3,15 @@
     <a href="https://github.com/KevOneRedOne">Hello There 👋 I'm Kévin 🐺 </a>
 </h1>
 <!-- TODO: corriger le lien sur main -->
+
 - I'm a Fullstack Developer from France, near to Paris <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>.
 - I'm currently doing a master's degree in advanced web development at <a href="https://www.ynov.com/formations/informatique/mastere-expert-en-developpement-web">Ynov Campus</a> in Paris. 
-    - In parallel, I'm working at <a href="https://www.itesoft.com/fr/">ITESOFT</a> as a project developer with these stacks : <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flate&logo=openjdk&logoColor=white" />, <img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white" />, <img align="center" alt="AngularJS" src="https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white" />, <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />, <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=fat&logo=docker&logoColor=white" />. 
+- In parallel, I'm working at <a href="https://www.itesoft.com/fr/">ITESOFT</a> as a project developer with these stacks : 
+    <p>
+        <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flate&logo=openjdk&logoColor=white" />
+        <img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white" /> <img align="center" alt="AngularJS" src="https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white" /> 
+        <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" /> <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=fat&logo=docker&logoColor=white" /> 
+    </p>
   
 - I'm passionate about technologies, nature, motorsports, and I love to learn new things. 
   
@@ -167,7 +173,7 @@
 
 
 
-[(Back to top)](#-my-github-stats)
+[(Back to top)](#-hello-there--im-kévin--)
 
 </details>
 
