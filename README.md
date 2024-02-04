@@ -3,15 +3,16 @@
     <a href="https://github.com/KevOneRedOne">Hello There 👋 I'm Kévin 🐺 </a>
 </h1>
 <!-- TODO: corriger le lien sur main -->
-  - I'm a Fullstack Developer from France, near to Paris <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>.
+- I'm a Fullstack Developer from France, near to Paris <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>.
+- I'm currently doing a master's degree in advanced web development at <a href="https://www.ynov.com/formations/informatique/mastere-expert-en-developpement-web">Ynov Campus</a> in Paris. In parallel, I'm working at <a href="https://www.itesoft.com/fr/">ITESOFT</a> as a project developer with these stacks : <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flate&logo=openjdk&logoColor=white" />, <img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white" />, <img align="center" alt="AngularJS" src="https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white" />, <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />, <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=fat&logo=docker&logoColor=white" />. 
+  
+- I'm passionate about technologies, nature, motorsports, and I love to learn new things. 
+  
+- I'm currently working with <img align="center" alt="React" src="https://img.shields.io/badge/-React.js-45b8d8?style=flat&logo=react&logoColor=white" />, <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=fat&logo=docker&logoColor=white" />, <img align="center" alt="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />, <img align="center" src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.JS" />, <img align="center" alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" /> and <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />.
+  
+- I'm also interested about DevOps and cloud computing.
 
-  - I'm currently doing a master's degree in advanced web development at <a href="https://www.ynov.com/formations/informatique/mastere-expert-en-developpement-web">Ynov Campus</a> in Paris. In parallel, I'm working at <a href="https://www.itesoft.com/fr/">ITESOFT</a> as a project developer with these stacks : <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flate&logo=openjdk&logoColor=white" />, <img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white" />, <img align="center" alt="AngularJS" src="https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white" />, <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />, <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=fat&logo=docker&logoColor=white" />. 
-  
-  - I'm passionate about technologies, nature, motorsports, and I love to learn new things. 
-  
-  - I'm currently working with <img align="center" alt="React" src="https://img.shields.io/badge/-React.js-45b8d8?style=flat&logo=react&logoColor=white" />, <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=fat&logo=docker&logoColor=white" />, <img align="center" alt="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />, <img align="center" src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.JS" />, <img align="center" alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" /> and <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />.
-  
-  - I'm also interested about DevOps and cloud computing.
+<br>
 
 #### 📚 My GitHub Stats
 
@@ -35,8 +36,9 @@
 <hr>
 
 #### 🌱 Currently learning
+
 <details>
-    <summary>🌐 Web Development</summary>
+    <summary><p>🌐 Web Development</summary>
     <p>
         <img align="center" alt="Vue" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
         <img align="center" alt="GO" src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
