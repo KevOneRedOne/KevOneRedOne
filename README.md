@@ -71,6 +71,9 @@
     </p>
 </details>
 
+<br>
+
+<hr>
 
 <h3>
     🛠️ Skills & Tools
@@ -154,6 +157,8 @@
     <img align="center" alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
 <!-- </details> -->
+
+<br>
 
 <hr>
 
