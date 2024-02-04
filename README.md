@@ -1,5 +1,4 @@
 <h1>
-    <img align="rigth" src="https://github.com/KevOneRedOne/KevOneRedOne/tree/main/img/avatar-circle.png" alt="Kévin" height="40" />
     <a name="top" href="https://github.com/KevOneRedOne">Hello There 👋 I'm Kévin 🐺 </a>
 </h1>
 
