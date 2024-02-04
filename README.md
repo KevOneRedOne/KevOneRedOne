@@ -1,6 +1,6 @@
 <h1>
     <img align="rigth" src="https://github.com/KevOneRedOne/KevOneRedOne/blob/feature/readme_style/img/avatar-circle.png" alt="Kévin" height="40" />
-    <a href="https://github.com/KevOneRedOne">Hello There 👋 I'm Kévin 🐺 </a>
+    <a name="top" href="https://github.com/KevOneRedOne">Hello There 👋 I'm Kévin 🐺 </a>
 </h1>
 <!-- TODO: corriger le lien sur main -->
 
@@ -187,7 +187,7 @@
 
 
 
-[(Back to top)](#-hello-there--im-kévin--)
+[(Back to top)](#top)
 
 </details>
 
