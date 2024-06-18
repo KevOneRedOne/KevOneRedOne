@@ -125,6 +125,7 @@
     <summary>🌐 Web Development</summary>
     <br>
     <p>
+        <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
         <img align="center" alt="React" src="https://img.shields.io/badge/-React.js-45b8d8?style=flat&logo=react&logoColor=white" />
         <img align="center" alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" />
         <img align="center" alt="Vue" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
@@ -143,7 +144,7 @@
     <br>
     <p>
         <img align="center" alt="GO" src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
-        <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flate&logo=openjdk&logoColor=white" />
+        <!-- <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flate&logo=openjdk&logoColor=white" /> -->
         <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" />
         <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
     </p>
@@ -154,7 +155,7 @@
     <br>
     <p>
         <img align="center" alt="React-Native" src="https://img.shields.io/badge/React--Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
-        <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" />
+        <!-- <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" /> -->
     </p>
 </details>
 
