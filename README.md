@@ -3,7 +3,7 @@
 </h1>
 
 - I'm a `Fullstack Developer` from `France`, near to Paris <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>.
-- I'm currently doing a Master's Degree in `Advanced Web Development` at <a href="https://www.ynov.com/formations/informatique/mastere-expert-en-developpement-web">Ynov Campus</a> in Paris. In parallel, I'm working at <a href="https://www.itesoft.com/fr/">ITESOFT</a> as a project developer.
+- I'm currently doing a Master's Degree in `Advanced Web Development` at <a href="https://www.ynov.com/formations/informatique/mastere-expert-en-developpement-web">Ynov Campus</a> in Paris.
   
 - I'm passionate about technologies, nature, motorsports, and I love to learn new things. 
   
