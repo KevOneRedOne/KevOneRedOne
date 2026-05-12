@@ -18,25 +18,40 @@ I enjoy building modern, scalable, and user-focused applications, from frontend 
 
 ## Main Technologies
 
-### Frontend
+<details open>
+  <summary><strong>Frontend</strong></summary>
 
 TypeScript • React • Next.js • Vue.js • Nuxt.js
 
-### Backend
+</details>
+
+<details open>
+  <summary><strong>Backend</strong></summary>
 
 Node.js • Express.js • Fastify • Go • Python • Java
 
-### DevOps & Cloud
+</details>
+
+<details open>
+  <summary><strong>DevOps & Cloud</strong></summary>
 
 Docker • AWS • GitHub Actions • Nginx • Gitlab CI • Kubernetes
 
-### Databases
+</details>
+
+<details open>
+  <summary><strong>Databases</strong></summary>
 
 PostgreSQL • MongoDB • MySQL • Redis
 
-### Testing
+</details>
+
+<details open>
+  <summary><strong>Testing</strong></summary>
 
 Jest • React Testing Library • Cypress • Selenium • Playwright
+
+</details>
 
 ---
 
@@ -47,6 +62,12 @@ Jest • React Testing Library • Cypress • Selenium • Playwright
 Modern TypeScript rewrite of my first-year Bachelor's Tetris project.
 
 Built with clean architecture, responsive design, mobile support, and tests.
+
+<p align="center">
+  <a href="https://simplistic-tetris.netlify.app/">
+    <img src="https://raw.githubusercontent.com/KevOneRedOne/Simplistic-Tetris/main/public/images/game-view.png" alt="Simplistic Tetris game preview" width="720" />
+  </a>
+</p>
 
 🔗 [Live demo](https://simplistic-tetris.netlify.app/)
 📦 [Repository](https://github.com/KevOneRedOne/Simplistic-Tetris)
@@ -63,17 +84,21 @@ Tech stack: React Native, Express.js, AWS EC2, PostgreSQL.
 
 ---
 
-### VSCode Pokémon
+<details open>
+  <summary><strong>Open Source Contribution - VS Code Pokémon</strong></summary>
 
 Open source contribution to a VS Code extension project, with work available on my fork.
 
 📦 [Fork](https://github.com/KevOneRedOne/vscode-pokemon)
 
+</details>
+
 ---
 
 ## Learning & Sandbox Projects
 
-### Learning Architecture Web
+<details open>
+  <summary><strong>Learning Architecture Web</strong></summary>
 
 Sandbox project used to explore the evolution from monolithic architecture to microservices.
 
@@ -81,13 +106,16 @@ Tech stack: Go, Vue.js, Fastify, PostgreSQL, Docker.
 
 📦 [Repository](https://github.com/KevOneRedOne/Learning_architecture_web)
 
----
+</details>
 
-### Simplistic TodoList
+<details open>
+  <summary><strong>Simplistic TodoList</strong></summary>
 
 Simple todo list project currently being rebuilt to improve its structure, code quality, and development practices.
 
 📦 [Repository](https://github.com/KevOneRedOne/Simplistic-TodoList)
+
+</details>
 
 ---
 
