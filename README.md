@@ -8,46 +8,37 @@
 
 ---
 
-## About Me
+<details open>
+<summary><h2>About Me</h2></summary>
 
 I'm a fullstack developer passionate about web technologies, software architecture, DevOps, and cloud computing.
 
 I enjoy building modern, scalable, and user-focused applications, from frontend interfaces to backend APIs and deployment workflows. I'm also always curious to explore new tools, improve my engineering practices, and learn by building real projects.
 
+</details>
+
 ---
 
-## Main Technologies
-
 <details open>
-  <summary><strong>Frontend</strong></summary>
+<summary><h2>Main Technologies</h2></summary>
+
+### Frontend
 
 TypeScript • React • Next.js • Vue.js • Nuxt.js
 
-</details>
-
-<details open>
-  <summary><strong>Backend</strong></summary>
+### Backend
 
 Node.js • Express.js • Fastify • Go • Python • Java
 
-</details>
+### DevOps & Cloud
 
-<details open>
-  <summary><strong>DevOps & Cloud</strong></summary>
+Docker • AWS • GitHub Actions • Nginx • GitLab CI • Kubernetes
 
-Docker • AWS • GitHub Actions • Nginx • Gitlab CI • Kubernetes
-
-</details>
-
-<details open>
-  <summary><strong>Databases</strong></summary>
+### Databases
 
 PostgreSQL • MongoDB • MySQL • Redis
 
-</details>
-
-<details open>
-  <summary><strong>Testing</strong></summary>
+### Testing
 
 Jest • React Testing Library • Cypress • Selenium • Playwright
 
@@ -55,7 +46,8 @@ Jest • React Testing Library • Cypress • Selenium • Playwright
 
 ---
 
-## Featured Projects
+<details open>
+<summary><h2>Featured Projects</h2></summary>
 
 ### Simplistic Tetris
 
@@ -69,7 +61,7 @@ Built with clean architecture, responsive design, mobile support, and tests.
   </a>
 </p>
 
-🔗 [Live demo](https://simplistic-tetris.netlify.app/)
+🔗 [Live demo](https://simplistic-tetris.netlify.app/)  
 📦 [Repository](https://github.com/KevOneRedOne/Simplistic-Tetris)
 
 ---
@@ -84,10 +76,9 @@ Tech stack: React Native, Express.js, AWS EC2, PostgreSQL.
 
 ---
 
-<details open>
-  <summary><strong>Open Source Contribution - VS Code Pokémon</strong></summary>
+### VS Code Pokemon
 
-Open source contribution to a VS Code extension project, with work available on my fork.
+Open source contribution to a VS Code extension project, with my work available on my fork.
 
 📦 [Fork](https://github.com/KevOneRedOne/vscode-pokemon)
 
@@ -95,10 +86,10 @@ Open source contribution to a VS Code extension project, with work available on 
 
 ---
 
-## Learning & Sandbox Projects
-
 <details open>
-  <summary><strong>Learning Architecture Web</strong></summary>
+<summary><h2>Learning, Sandbox & Early Projects</h2></summary>
+
+### Learning Architecture Web
 
 Sandbox project used to explore the evolution from monolithic architecture to microservices.
 
@@ -106,32 +97,51 @@ Tech stack: Go, Vue.js, Fastify, PostgreSQL, Docker.
 
 📦 [Repository](https://github.com/KevOneRedOne/Learning_architecture_web)
 
-</details>
+---
 
-<details open>
-  <summary><strong>Simplistic TodoList</strong></summary>
+### Simplistic TodoList
 
 Simple todo list project currently being rebuilt to improve its structure, code quality, and development practices.
 
 📦 [Repository](https://github.com/KevOneRedOne/Simplistic-TodoList)
 
+---
+
+### TopGun Fighter - Raspberry Pi
+
+Second-year Bachelor's Python game project built around a retro arcade spirit and Raspberry Pi experimentation.
+
+<p align="center">
+  <a href="https://github.com/KevOneRedOne/TopGun_Fighter-Raspberry-Pi">
+    <img src="https://raw.githubusercontent.com/KevOneRedOne/KevOneRedOne/main/img/topgungame.png" alt="TopGun Fighter game preview" width="720" />
+  </a>
+</p>
+
+📦 [Repository](https://github.com/KevOneRedOne/TopGun_Fighter-Raspberry-Pi)
+
 </details>
 
 ---
 
-## GitHub Stats
+<details open>
+<summary><h2>GitHub Stats</h2></summary>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=KevOneRedOne&show_icons=true&theme=github_dark" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevOneRedOne&layout=compact&theme=github_dark" />
 </p>
 
+</details>
+
 ---
 
-## Contact
+<details open>
+<summary><h2>Contact</h2></summary>
 
 - LinkedIn: [linkedin.com/in/kévin-alves-7a96ba146](https://www.linkedin.com/in/kévin-alves-7a96ba146)
 - GitHub: [github.com/KevOneRedOne](https://github.com/KevOneRedOne)
+
+</details>
 
 ---
 
