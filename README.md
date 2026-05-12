@@ -6,6 +6,14 @@
   RNCP Level 7 / Master's degree equivalent in Advanced Web Development
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
+</p>
+
 ---
 
 <details open>
@@ -51,9 +59,14 @@ Jest • React Testing Library • Cypress • Selenium • Playwright
 
 ### Simplistic Tetris
 
-Modern TypeScript rewrite of my first-year Bachelor's Tetris project.
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
 
-Built with clean architecture, responsive design, mobile support, and tests.
+> Modern TypeScript rewrite of my first-year Bachelor's Tetris project, rebuilt as a production-ready web game playable anywhere.
+
+Built with clean architecture, responsive design, mobile support, multiple game modes, themes, audio, i18n, and tests.
 
 <p align="center">
   <a href="https://simplistic-tetris.netlify.app/">
@@ -68,6 +81,11 @@ Built with clean architecture, responsive design, mobile support, and tests.
 
 ### Peel - Dating App
 
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
 Bachelor's second and third-year mobile project focused on meaningful connections rather than physical appearance.
 
 Tech stack: React Native, Express.js, AWS EC2, PostgreSQL.
@@ -77,6 +95,9 @@ Tech stack: React Native, Express.js, AWS EC2, PostgreSQL.
 ---
 
 ### VS Code Pokemon
+
+![Open Source](https://img.shields.io/badge/Open_Source-Contribution-2EA44F?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 Open source contribution to a VS Code extension project, with my work available on my fork.
 
@@ -91,6 +112,11 @@ Open source contribution to a VS Code extension project, with my work available 
 
 ### Learning Architecture Web
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
 Sandbox project used to explore the evolution from monolithic architecture to microservices.
 
 Tech stack: Go, Vue.js, Fastify, PostgreSQL, Docker.
@@ -101,6 +127,10 @@ Tech stack: Go, Vue.js, Fastify, PostgreSQL, Docker.
 
 ### Simplistic TodoList
 
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+
 Simple todo list project currently being rebuilt to improve its structure, code quality, and development practices.
 
 📦 [Repository](https://github.com/KevOneRedOne/Simplistic-TodoList)
@@ -109,11 +139,15 @@ Simple todo list project currently being rebuilt to improve its structure, code 
 
 ### TopGun Fighter - Raspberry Pi
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=flat&logo=python&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
+
 Second-year Bachelor's Python game project built around a retro arcade spirit and Raspberry Pi experimentation.
 
 <p align="center">
   <a href="https://github.com/KevOneRedOne/TopGun_Fighter-Raspberry-Pi">
-    <img src="https://raw.githubusercontent.com/KevOneRedOne/KevOneRedOne/main/img/topgungame.png" alt="TopGun Fighter game preview" width="720" />
+    <img src="https://raw.githubusercontent.com/KevOneRedOne/TopGun_Fighter-Raspberry-Pi/main/assets/screen/game.png" alt="TopGun Fighter game preview" width="720" />
   </a>
 </p>
 
