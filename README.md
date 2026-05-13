@@ -17,25 +17,19 @@
 
 ---
 
-## About Me
-
 <details open>
-<summary>
+<summary><h2>About Me</h2></summary>
 
 I'm a fullstack developer passionate about web technologies, software architecture, DevOps, and cloud computing.
 
 I enjoy building modern, scalable, and user-focused applications — from frontend interfaces to backend APIs and deployment pipelines. I'm always curious to explore new tools, sharpen my engineering practices, and learn by building real projects.
 
-</summary>
-
 </details>
 
 ---
 
-## Main Technologies
-
 <details open>
-<summary>
+<summary><h2>Main Technologies</h2></summary>
 
 ### 🌐 Frontend
 
@@ -57,16 +51,12 @@ PostgreSQL • MongoDB • MySQL • Redis
 
 Jest • React Testing Library • Cypress • Playwright
 
-</summary>
-
 </details>
 
 ---
 
-## Featured Projects
-
 <details open>
-<summary>
+<summary><h2>Featured Projects</h2></summary>
 
 ### 🎮 Simplistic Tetris
 
@@ -111,16 +101,12 @@ Clean architecture • Responsive design • Mobile support • Multiple game mo
 
 📦 [Fork](https://github.com/KevOneRedOne/vscode-pokemon)
 
-</summary>
-
 </details>
 
 ---
 
-## Learning, Sandbox & Early Projects
-
 <details>
-<summary>
+<summary><h2>Learning, Sandbox & Early Projects</h2></summary>
 
 ### 🏗️ Learning Architecture Web
 
@@ -163,32 +149,24 @@ Clean architecture • Responsive design • Mobile support • Multiple game mo
 
 📦 [Repository](https://github.com/KevOneRedOne/TopGun_Fighter-Raspberry-Pi)
 
-</summary>
-
 </details>
 
 ---
 
-## GitHub Stats
-
 <details open>
-<summary>
+<summary><h2>GitHub Stats</h2></summary>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=KevOneRedOne&show_icons=true&theme=github_dark" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevOneRedOne&layout=compact&theme=github_dark" />
 </p>
 
-</summary>
-
 </details>
 
 ---
 
-## Contact
-
 <details open>
-<summary>
+<summary><h2>Contact</h2></summary>
 
 <p>
   <a href="https://www.linkedin.com/in/kévin-alves-7a96ba146">
@@ -199,8 +177,6 @@ Clean architecture • Responsive design • Mobile support • Multiple game mo
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
-</summary>
 
 </details>
 
