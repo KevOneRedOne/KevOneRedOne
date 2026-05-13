@@ -165,7 +165,7 @@ Clean architecture • Responsive design • Mobile support • Multiple game mo
 
 ---
 
-<details open>
+<details>
 <summary><h2>Contact</h2></summary>
 
 <p>
