@@ -17,7 +17,9 @@
 ---
 
 <details open>
-<summary><strong>About Me</strong></summary>
+<summary>
+  <h2>About Me</h2>
+</summary>
 
 I'm a fullstack developer passionate about web technologies, software architecture, DevOps, and cloud computing.
 
@@ -28,7 +30,9 @@ I enjoy building modern, scalable, and user-focused applications, from frontend 
 ---
 
 <details open>
-<summary><strong>Main Technologies</strong></summary>
+<summary>
+  <h2>Main Technologies</h2>
+</summary>
 
 ### Frontend
 
@@ -55,7 +59,9 @@ Jest • React Testing Library • Cypress • Selenium • Playwright
 ---
 
 <details>
-<summary><strong>Featured Projects</strong></summary>
+<summary>
+  <h2>Featured Projects</h2>
+</summary>
 
 ### Simplistic Tetris
 
@@ -108,7 +114,9 @@ Open source contribution to a VS Code extension project, with my work available 
 ---
 
 <details>
-<summary><strong>Learning, Sandbox & Early Projects</strong></summary>
+<summary>
+  <h2>Learning, Sandbox & Early Projects</h2>
+</summary>
 
 ### Learning Architecture Web
 
@@ -158,7 +166,9 @@ Second-year Bachelor's Python game project built around a retro arcade spirit an
 ---
 
 <details open>
-<summary><strong>GitHub Stats</strong></summary>
+<summary>
+  <h2>GitHub Stats</h2>
+</summary>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=KevOneRedOne&show_icons=true&theme=github_dark" />
@@ -170,7 +180,9 @@ Second-year Bachelor's Python game project built around a retro arcade spirit an
 ---
 
 <details open>
-<summary><strong>Contact</strong></summary>
+<summary>
+  <h2>Contact</h2>
+</summary>
 
 - LinkedIn: [linkedin.com/in/kévin-alves-7a96ba146](https://www.linkedin.com/in/kévin-alves-7a96ba146)
 - GitHub: [github.com/KevOneRedOne](https://github.com/KevOneRedOne)
