@@ -28,6 +28,7 @@ I enjoy building modern, scalable, and user-focused applications, from frontend 
 
 <details open>
 <summary><h2>Main Technologies</h2></summary>
+
 ### Frontend
 
 TypeScript • React • Next.js • Vue.js • Nuxt.js
