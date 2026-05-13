@@ -16,10 +16,9 @@
 
 ---
 
-## About Me
-
 <details open>
-<summary><strong>Show / hide section</strong></summary>
+<summary><strong>About Me</strong></summary>
+
 I'm a fullstack developer passionate about web technologies, software architecture, DevOps, and cloud computing.
 
 I enjoy building modern, scalable, and user-focused applications, from frontend interfaces to backend APIs and deployment workflows. I'm also always curious to explore new tools, improve my engineering practices, and learn by building real projects.
@@ -28,10 +27,8 @@ I enjoy building modern, scalable, and user-focused applications, from frontend 
 
 ---
 
-## Main Technologies
-
 <details open>
-<summary><strong>Show / hide section</strong></summary>
+<summary><strong>Main Technologies</strong></summary>
 
 ### Frontend
 
@@ -57,10 +54,8 @@ Jest • React Testing Library • Cypress • Selenium • Playwright
 
 ---
 
-## Featured Projects
-
 <details>
-<summary><strong>Show / hide section</strong></summary>
+<summary><strong>Featured Projects</strong></summary>
 
 ### Simplistic Tetris
 
@@ -112,10 +107,8 @@ Open source contribution to a VS Code extension project, with my work available 
 
 ---
 
-## Learning, Sandbox & Early Projects
-
 <details>
-<summary><strong>Show / hide section</strong></summary>
+<summary><strong>Learning, Sandbox & Early Projects</strong></summary>
 
 ### Learning Architecture Web
 
@@ -164,10 +157,8 @@ Second-year Bachelor's Python game project built around a retro arcade spirit an
 
 ---
 
-## GitHub Stats
-
 <details open>
-<summary><strong>Show / hide section</strong></summary>
+<summary><strong>GitHub Stats</strong></summary>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=KevOneRedOne&show_icons=true&theme=github_dark" />
@@ -178,10 +169,8 @@ Second-year Bachelor's Python game project built around a retro arcade spirit an
 
 ---
 
-## Contact
-
 <details open>
-<summary><strong>Show / hide section</strong></summary>
+<summary><strong>Contact</strong></summary>
 
 - LinkedIn: [linkedin.com/in/kévin-alves-7a96ba146](https://www.linkedin.com/in/kévin-alves-7a96ba146)
 - GitHub: [github.com/KevOneRedOne](https://github.com/KevOneRedOne)
