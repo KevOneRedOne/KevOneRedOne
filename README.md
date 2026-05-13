@@ -17,12 +17,10 @@
 
 ---
 
-<details open>
-<summary>
-  <h2>About Me</h2>
-</summary>
+## About Me
 
-<br />
+<details open>
+<summary>▾</summary>
 
 I'm a fullstack developer passionate about web technologies, software architecture, DevOps, and cloud computing.
 
@@ -32,12 +30,10 @@ I enjoy building modern, scalable, and user-focused applications — from fronte
 
 ---
 
-<details open>
-<summary>
-  <h2>Main Technologies</h2>
-</summary>
+## Main Technologies
 
-<br />
+<details open>
+<summary>▾</summary>
 
 ### 🌐 Frontend
 
@@ -63,12 +59,10 @@ Jest • React Testing Library • Cypress • Playwright
 
 ---
 
-<details open>
-<summary>
-  <h2>Featured Projects</h2>
-</summary>
+## Featured Projects
 
-<br />
+<details open>
+<summary>▾</summary>
 
 ### 🎮 Simplistic Tetris
 
@@ -117,12 +111,10 @@ Clean architecture • Responsive design • Mobile support • Multiple game mo
 
 ---
 
-<details>
-<summary>
-  <h2>Learning, Sandbox & Early Projects</h2>
-</summary>
+## Learning, Sandbox & Early Projects
 
-<br />
+<details>
+<summary>▾</summary>
 
 ### 🏗️ Learning Architecture Web
 
@@ -169,12 +161,10 @@ Clean architecture • Responsive design • Mobile support • Multiple game mo
 
 ---
 
-<details open>
-<summary>
-  <h2>GitHub Stats</h2>
-</summary>
+## GitHub Stats
 
-<br />
+<details open>
+<summary>▾</summary>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=KevOneRedOne&show_icons=true&theme=github_dark" />
@@ -185,12 +175,10 @@ Clean architecture • Responsive design • Mobile support • Multiple game mo
 
 ---
 
-<details open>
-<summary>
-  <h2>Contact</h2>
-</summary>
+## Contact
 
-<br />
+<details open>
+<summary>▾</summary>
 
 <p>
   <a href="https://www.linkedin.com/in/kévin-alves-7a96ba146">
