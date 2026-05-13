@@ -55,7 +55,7 @@ Jest • React Testing Library • Cypress • Playwright
 
 ---
 
-<details open>
+<details>
 <summary><h2>Featured Projects</h2></summary>
 
 ### 🎮 Simplistic Tetris
