@@ -18,7 +18,6 @@
 
 <details open>
 <summary><h2>About Me</h2></summary>
-
 I'm a fullstack developer passionate about web technologies, software architecture, DevOps, and cloud computing.
 
 I enjoy building modern, scalable, and user-focused applications, from frontend interfaces to backend APIs and deployment workflows. I'm also always curious to explore new tools, improve my engineering practices, and learn by building real projects.
@@ -29,7 +28,6 @@ I enjoy building modern, scalable, and user-focused applications, from frontend 
 
 <details open>
 <summary><h2>Main Technologies</h2></summary>
-
 ### Frontend
 
 TypeScript • React • Next.js • Vue.js • Nuxt.js
@@ -54,7 +52,7 @@ Jest • React Testing Library • Cypress • Selenium • Playwright
 
 ---
 
-<details open>
+<details closed>
 <summary><h2>Featured Projects</h2></summary>
 
 ### Simplistic Tetris
@@ -107,7 +105,7 @@ Open source contribution to a VS Code extension project, with my work available 
 
 ---
 
-<details open>
+<details closed>
 <summary><h2>Learning, Sandbox & Early Projects</h2></summary>
 
 ### Learning Architecture Web
